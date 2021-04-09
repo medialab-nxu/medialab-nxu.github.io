@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BJTU Synergy Lab 成员一览
+title: 智能媒体信息处理实验室 成员一览
 ---
 
 ## 教师
