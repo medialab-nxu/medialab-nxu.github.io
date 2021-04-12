@@ -7,4 +7,3 @@ title: 智能媒体信息处理实验室
 ![团队合影](./assets/images/group-2020.jpeg)
 
 ---
-![](https://komarev.com/ghpvc/?username=medialab-nxu)
